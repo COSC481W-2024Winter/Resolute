@@ -13,7 +13,7 @@ BIO
 
 BIO
 
-### Victoria Cici - Team Member
+### Victoria Ceci - Team Member
 
 I am a junior at EMU double majoring in Data Science and Political Science with plans to graduate in the winter of 2025. My career goal is to become a political analyist for an interest group or news network. My coding experience has all been through Eastern, so I have knowledge primarily in Java and Python. In my free time I enjoy reading, going to concerts, and hanging out with my cat.
 
