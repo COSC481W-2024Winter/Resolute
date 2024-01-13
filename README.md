@@ -19,7 +19,7 @@ I am a junior at EMU double majoring in Data Science and Political Science with 
 
 ### William Paddison - Team Member
 
-BIO
+I am a senior at EMU with a major in Computer Science I plan to graduate at the end of this semester in April. I am currently working in the service industry and have career goals of finding a career where I am able to work in a sales position where I can utilized my knowledge of computers to connect people with the technology either physical or digital that improves there life or business. I am super excited for this last semester, I really enjoy getting to know and working with new people :)
 
 ### Kailin Bedoway - Team Member
 
