@@ -7,7 +7,7 @@ The primary function of Resolute is to remind users to be physically active via 
 
 ### Arie Gentry - Team Leader
 
-BIO
+I am a senior at EMU, formerly majored in Secondary Education Mathematics, but currently majoring in Computer Science. While I currently do not have any particular path I intend my life and career to go, I am utilizing my time at Eastern to try to open as many doors as I reasonably can. I am an optimist with my biggest flaw being my inability to define my limits, and sometimes pushing myself to take on an inhuman amount of work without regard to health or happiness. My coding experiences are all from EMU, so I have baseline experience with Java, Python, C, HTML5, Javascript, PHP, as well as SML and Lisp. This is my last semester at Eastern, and I look forward to working with everybody!
 
 ### Jonathan Taylor - Deputy Team Leader
 
