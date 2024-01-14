@@ -11,7 +11,7 @@ I am a senior at EMU, formerly majored in Secondary Education Mathematics, but c
 
 ### Jonathan Taylor - Deputy Team Leader
 
-BIO
+A senior at Eastern Michigan, my degree is in Computer Science and I plan on graduating this semester. I'm interested in this project because my mobile development experience is limited and I've been looking to get some more practice. When I'm not at school or work I enjoy playing cards, reading, and scrolling through all the streaming apps trying to find something to watch. 
 
 ### Victoria Ceci - Team Member
 
