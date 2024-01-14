@@ -23,4 +23,4 @@ I am a senior at EMU with a major in Computer Science I plan to graduate at the 
 
 ### Kailin Bedoway - Team Member
 
-BIO
+I am an EMU senior majoring in Data Science and Analytics planning to graduate after this semester. I have gained all of my coding knowledge through my schooling, and have experience with languages including Python, Java, Javascript, HTML, CSS, R, and SQL. I am currently unsure of exactly what career path I will take after graduation, but I'm excited to explore the possibilities in the future!
